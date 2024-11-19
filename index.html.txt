@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>My CV</title> 
+    <link rel="stylesheet" href="styles.css"> 
+</head> 
+<body> 
+    <header> 
+        <h1>ABDULLAHI YUSUF A.
+Address: 8, Nimota Street Sair-Iganmu, Orile, Lagos State.
+Tel: 08120874287, 08153829295
+E-mail: yusufope2@gmail.com, yusuphhorlatj@yahoo.com</h1> 
+    </header> 
+    <nav> 
+        <ul> 
+            <li><a href="#career summary">Career Summary</a></li> 
+            <li><a href="#education">Education</a></li> 
+            <li><a href="#working experience">Working Experience</a></li> 
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#language">Language</a></li>
+           <li><a href="#hobbies">Hobbies</a></li>
+           <li><a href="#reference">Reference</a></li>
+        </ul> 
+    </nav> 
+    <main> 
+        <section id="career summary"> 
+            <h2>Career Summary</h2> 
+            <p>As a computer engineering student, I am passionate about technology and its applications, particularly in the growing field of renewable energy. I am actively pursuing a comprehensive education in computer engineering, gaining expertise in hardware design, software development, and system integration. My focus is on learning and applying the latest industry practices, particularly in the field of solar power, where I am eager to contribute to the design, assembly, and installation of solar power systems. While my experience in electrical and electronics is currently limited, I am a quick learner with a strong desire to gain expertise from experienced teams. I am dedicated to working on projects that enhance my practical skills, collaborating with peers to solve complex engineering problems, and contributing to advancements in the field. My goal is to become a proficient computer engineer and apply my skills to the development of sustainable energy solutions</p> 
+        </section> 
+        <section id="education"> 
+            <h2>Education</h2> 
+            <p>- Federal Polytechnic, Offa, Kwara State.				          2022-2024
+Computer Engineering Technology
+Ordinary National Diploma (OND)
+- Community Senior High School, Surulere Lagos.			2012-2017
+Senior School Certificate Examination
+West Africa Examination Council (WAEC)
+- Glorious Light Nur/Pri School.						2006-2011</p> 
+        </section> 
+        <section id="working experience"> 
+            <h2>Working Experience</h2> 
+            <p>- Typist
+T.W Ventures, Apapa, Lagos State.					Mar 2018 – Dec 2022
+As a typist, my primary role was to accurately transcribe and input various documents and information into digital formats. 
+Strong attention to detail and typing speed.
+Ensuring that I produced error-free and efficiently typed documents. 
+Typing reports, letters, data entry, and other documents as needed. 
+Helping to streamline administrative processes and maintain organized records</p> 
+        </section> 
+        <section id="skills"> 
+            <h2>Skills</h2> 
+            <p>Computer Literacy
+Good communication
+Strong Work Ethic
+Team Work
+Observation
+Time Management
+Attention to details
+Critical Thinking
+Adaptability
+Patience
+Active listening</p> 
+        </section> 
+        <section id="language"> 
+            <h2>Language</h2> 
+            <p>English
+Yoruba
+Arabic (Conversional Level)</p> 
+        </section> 
+        <section id="hobbies"> 
+            <h2>Hobbies</h2> 
+            <p>Studying
+Research
+Praying</p> 
+        </section> 
+        <section id="reference"> 
+            <h2>Reference</h2> 
+            <p>Available upon request</p> 
+    </main> 
+    <footer> 
+        <p>&copy; 2024 Abdullahi Yusuf A.</p> 
+    </footer> 
+    <script src="script.js"></script> 
+        <section id="images">  
+            <h1>Images</h1>
+            <img src="https://www.dropbox.com/scl/fi/q2m8srar8ccdoxnbdeo9a/Screenshot_20240524-155020.jpg?rlkey=e4di1qbwf3cc13gy09h6r8mno&st=iyfd63qe&dl=0" alt="Image 1">
+            <br>
+            <img src="https://www.dropbox.com/scl/fi/9jgma8eoitsv0n9fc95kw/DSC_0810.jpg?rlkey=lq65x9m1wb0phm35mb1spfj59&st=1rn9yds6&dl=0" alt="Image 2">
+            <br>
+            <img src="https://www.dropbox.com/scl/fi/0wha0urit67m162l1hvql/FB_IMG_17193964595456830.jpg?rlkey=ty1ehbc1a4y2sgl3ykzfzxl67&st=7lwj2vh4&dl=0" alt="Image 3">
+            <br>
+            <img src="https://www.dropbox.com/scl/fi/up9qzghxaz4u8x3h98v4n/Screenshot_20240328-114634-2.png?rlkey=m21t2j24k9d68cn1sse8n9qrh&st=i1ggnvda&dl=0" alt="Image">
+            <br>
+            <img src="https://www.dropbox.com/scl/fi/vjq11xzn110bs4escxtny/FB_IMG_17193966163719468.jpg?rlkey=lzqpq9fs7eno230yk8jl7arc8&st=z68lu16u&dl=0" alt="Image 5">
+        </section>
+</body> 
+</html> 
